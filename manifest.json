@@ -1,8 +1,8 @@
 {
     "name": "ClientSideCompany",
-    "version_number": "1.2.0",
+    "version_number": "1.3.0",
     "website_url": "",
-    "description": "Modpack of some client-side quality of life mods, including TerminalShortcuts, CrossHair, ItemQuickSwitch, IntroTweaks, and more.",
+    "description": "Modpack of some client-side quality of life mods, including TerminalShortcuts, CrossHair, ItemQuickSwitch, LC_FastStartup, and more.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "AinaVT-LethalConfig-1.3.4",
@@ -10,9 +10,9 @@
         "TheLore-TerminalShortcuts-1.0.1",
         "CTNOriginals-CrossHair-1.1.0",
         "vasanex-ItemQuickSwitch-1.1.0",
-        "Owen3H-IntroTweaks-1.4.2",
         "Nases-Quick_Drop-1.0.1",
         "5Bit-VoiceHUD-1.0.4",
-        "tinyhoot-ShipLoot-1.0.0"
+        "tinyhoot-ShipLoot-1.0.0",
+        "flerouwu-LC_FastStartup-1.1.2"
     ]
 }

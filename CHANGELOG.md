@@ -1,6 +1,12 @@
 # Changelog
 
-## Verion 1.2.0
+## Version 1.3.0
+
+Removed IntroTweaks as it has been marked as deprecated. Replaced with LC_FastStartup. 
+
+Minor changes to readme.
+
+## Version 1.2.0
 
 Added the following mods to the pack:
 
